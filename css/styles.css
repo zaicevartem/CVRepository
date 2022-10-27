@@ -33,6 +33,7 @@ hr {
 .skill-text {
     font-size: 1.1rem;
     font-family: 'Ubuntu', cursive;
+    margin-bottom: 100px;
 }
 .top-container {
     background-color: #D6EFED;
