@@ -1,0 +1,110 @@
+body {
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    color: #20d6ee;
+    font-size: 70px;
+    font-family: 'Sacramento', cursive;
+    text-shadow: 1px 1px #11999E;
+}
+h2 {
+    font-size: 2.5rem;
+    color: #fabb55;
+    font-weight: bold;
+    font-family: 'Sacramento', cursive;
+    text-shadow: 1px 1px #11999E;
+}
+h3 {
+    color: #11999E;
+    font-weight: bold;
+}
+hr {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: dotted #1cb1c5 7px;
+    border-bottom: none;
+    width: 5%;
+}
+.skill-text {
+    font-size: 1.1rem;
+    font-family: 'Ubuntu', cursive;
+}
+.top-container {
+    background-color: #D6EFED;
+    background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.png");
+}
+.bottom-cloud {
+    width: 5%;
+    position: absolute;
+    left: 15%;
+    opacity: 0.5;
+}
+.top-cloud {
+    width: 5%;
+    margin-left: 70%;
+    margin-top: 3%;
+    opacity: 0.5;
+}
+.sunset {
+    opacity: 0.5;
+}
+.skill-row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+.left-image {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.right-image {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.my-photo {
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+    border: 1px solid #40e4d6;
+    margin-top: 50px;
+}
+.hello-block, .contact-block, .contact-title {
+    margin: auto;
+    text-align: center;
+    width: 77%;
+    line-height: 1.5;
+    font-size: 1.3rem;
+    color: rgb(7, 68, 68);
+    font-family: 'Ubuntu', cursive;
+}
+.certificate {
+    width: 55%;
+    border: 3px solid rgb(11, 99, 99);
+    border-radius: 3%;
+    margin: 10px;
+    box-shadow: 10px 10px 0 #9dabac;
+}
+.middle-container {
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+.bottom-container {
+    background-color: #ffd058;
+    background-image: url("https://www.transparenttextures.com/patterns/diagonales-decalees.png");
+    padding-bottom: 10px;
+}
+.contact-me {
+    padding-bottom:  30px;
+}
+.contact-icon {
+    width: 3%;
+    margin: 30px 10px 0 10px;
+}
+
